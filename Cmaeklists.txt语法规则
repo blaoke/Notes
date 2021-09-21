@@ -1,0 +1,15 @@
+# vscode快捷键：
+- ctrl+d: 快速选择鼠标所在部分内容
+-   ctrl+space:快速删除
+- alt+向上箭头：将当前行与上面一行交换顺序
+- alt+ctrl+向上箭头：每一行出现输入符号
+- ctrl+shift+i:代码格式化(????)
+- ctrl+shift+t：打开刚关闭的窗口`   
+- ctrl+pgup：切换标签页
+- ctrl shift [:折叠鼠标所在代码区域
+- ctrl shift ]：打开
+- ctrl k ctrl 0:折叠所有函数
+
+ros教程推荐：http://www.autolabor.com.cn/book/ROSTutorials/
+
+ 
